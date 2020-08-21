@@ -1,3 +1,4 @@
+# Print is a function
 # The literal hello world is called an argument.
 # Here Hello World is an argument to the print function
 
